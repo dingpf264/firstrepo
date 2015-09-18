@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git Has a mother.
 写句汉语
 git add 之后再修改
+aaaaaaaaaaaaaaaaaaaaaaaaaaa
 		--version 1.0
